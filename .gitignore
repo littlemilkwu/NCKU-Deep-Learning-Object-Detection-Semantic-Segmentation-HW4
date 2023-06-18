@@ -14,3 +14,4 @@ yolov4-pytorch/logs
 yolov4-pytorch/map_out
 yolov4-pytorch/model_data
 yolov4-pytorch/VOCdevkit
+yolov4-pytorch/seg_out

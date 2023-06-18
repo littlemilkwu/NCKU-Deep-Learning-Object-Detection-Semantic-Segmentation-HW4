@@ -17,8 +17,8 @@ The goal of this assignment is to design and implement a deep learning model cap
 * AED_val_00001280, 81, 82, 83, 85 (1)
 
 ### ADE SceneParse150 list
-[google sheet](https://docs.google.com/spreadsheets/d/1se8YEtb2detS7OuPE86fXGyD269pMycAWe2mtKUj2W8/edit#gid=0)
+* [google sheet](https://docs.google.com/spreadsheets/d/1se8YEtb2detS7OuPE86fXGyD269pMycAWe2mtKUj2W8/edit#gid=0)
 
 ### Reference
-[iterate over two dataloaders simultaneously](https://stackoverflow.com/questions/51444059/how-to-iterate-over-two-dataloaders-simultaneously-using-pytorch)
-[YOLOv4 介紹-台灣人工智慧學校](https://aiacademy.tw/yolo-v4-intro/)
+* [iterate over two dataloaders simultaneously](https://stackoverflow.com/questions/51444059/how-to-iterate-over-two-dataloaders-simultaneously-using-pytorch)
+* [YOLOv4 介紹-台灣人工智慧學校](https://aiacademy.tw/yolo-v4-intro/)
