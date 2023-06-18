@@ -1,0 +1,16 @@
+**/__pycache__
+**/.DS_Store
+
+ADE20K_DL_course/cv2_tmp
+ADE20K_DL_course/imgs
+ADE20K_DL_course/instance_mask
+ADE20K_DL_course/jsons
+ADE20K_DL_course/masks
+ADE20K_DL_course/ADE20K_DL_seg.npz
+
+VOC_2007/VOCdevkit
+
+yolov4-pytorch/logs
+yolov4-pytorch/map_out
+yolov4-pytorch/model_data
+yolov4-pytorch/VOCdevkit

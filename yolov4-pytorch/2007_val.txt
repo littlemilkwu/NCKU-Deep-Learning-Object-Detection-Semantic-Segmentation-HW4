@@ -1,0 +1,997 @@
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000001.jpg 48,240,195,371,11 8,12,352,498,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000003.jpg 123,155,215,195,17 239,156,307,205,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000012.jpg 156,97,351,270,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000029.jpg 56,63,284,290,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000048.jpg 58,107,291,465,2 2,1,302,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000056.jpg 165,60,387,334,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000057.jpg 133,53,385,358,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000060.jpg 1,137,427,333,6 1,62,479,235,6 1,27,422,141,6 44,7,458,134,6 199,6,475,98,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000062.jpg 58,188,271,310,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000070.jpg 358,163,378,197,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000076.jpg 63,78,265,375,14 257,75,448,375,14 362,130,446,261,14 472,157,500,343,14 457,209,478,255,14 439,170,458,216,14 247,142,288,197,14 44,162,84,286,14 77,157,120,245,14 1,159,26,283,14 24,174,45,201,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000077.jpg 240,1,500,333,7 2,1,306,333,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000081.jpg 235,158,462,282,17 198,156,341,231,14 349,145,451,266,14 61,162,170,333,14 29,166,73,213,14 298,246,433,333,14 196,215,332,330,14 270,298,324,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000090.jpg 193,65,346,278,8 33,33,307,255,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000098.jpg 69,70,317,162,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000105.jpg 22,1,320,314,3 202,71,295,215,14 170,107,239,206,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000111.jpg 415,270,500,375,14 149,186,171,213,14 112,186,135,222,14 92,198,141,227,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000115.jpg 1,219,247,437,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000119.jpg 107,96,309,348,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000137.jpg 96,430,164,482,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000172.jpg 29,54,456,321,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000219.jpg 120,333,310,464,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000251.jpg 96,435,275,500,6 362,440,453,500,6 52,429,70,469,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000268.jpg 180,103,436,281,0 1,58,262,333,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000269.jpg 185,264,205,320,4 298,245,326,312,4 227,56,497,213,14 91,59,245,261,14 37,134,203,332,14 226,75,413,274,14 258,114,477,332,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000272.jpg 25,71,304,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000285.jpg 224,77,462,375,14 37,97,231,375,14 369,203,437,375,8 120,220,229,375,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000287.jpg 421,65,500,129,14 7,1,303,374,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000293.jpg 13,20,65,192,14 140,33,175,133,14 171,40,200,116,14 479,49,500,76,14 1,2,456,318,6 68,62,122,99,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000306.jpg 114,36,182,86,9 237,46,302,87,9 303,42,380,87,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000312.jpg 3,2,500,334,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000316.jpg 337,179,404,211,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000327.jpg 305,27,333,127,4 1,89,500,375,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000333.jpg 1,39,367,270,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000336.jpg 4,7,472,426,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000338.jpg 197,91,216,116,14 82,73,384,203,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000353.jpg 79,29,441,356,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000360.jpg 64,42,500,375,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000362.jpg 163,26,287,267,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000374.jpg 48,85,499,374,13 125,2,316,344,14 44,4,128,167,14 315,31,352,112,14 217,40,248,84,14 21,43,51,127,14 471,36,497,126,14 447,36,472,117,14 361,41,374,103,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000393.jpg 235,51,309,222,14 157,106,426,294,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000396.jpg 86,170,353,259,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000414.jpg 58,56,242,234,19 118,88,206,187,14 263,100,300,215,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000416.jpg 330,139,399,248,16 181,171,259,252,16 217,154,345,244,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000417.jpg 174,82,369,375,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000424.jpg 65,159,134,216,2 189,197,284,254,2 327,209,401,252,2 411,177,486,227,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000438.jpg 240,56,432,332,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000443.jpg 12,18,107,318,14 176,117,327,268,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000444.jpg 2,2,332,325,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000445.jpg 266,86,475,252,12 135,70,318,255,12 1,68,173,268,12 38,46,128,154,14 125,43,188,101,14 192,48,263,150,14 334,70,414,157,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000476.jpg 126,110,358,373,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000495.jpg 104,16,400,266,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000498.jpg 6,5,176,203,4 114,256,201,496,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000502.jpg 1,1,500,357,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000513.jpg 162,127,290,190,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000525.jpg 97,159,218,226,13 443,116,500,217,14 104,113,169,219,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000534.jpg 3,15,463,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000535.jpg 194,142,352,256,1 2,142,121,269,1 206,55,316,239,14 1,67,71,247,14 130,92,171,207,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000539.jpg 24,103,347,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000561.jpg 145,167,311,491,2 37,27,177,412,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000584.jpg 31,74,369,346,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000585.jpg 2,11,494,332,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000589.jpg 73,1,315,375,14 54,127,97,268,14 1,118,33,300,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000591.jpg 2,192,32,265,14 20,185,68,250,14 48,190,76,252,14 75,191,100,280,14 108,179,143,250,14 473,199,489,234,14 174,197,197,238,8 153,193,180,239,8 227,195,245,234,8 188,202,220,238,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000592.jpg 341,276,433,375,8 196,173,384,290,17 129,151,203,218,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000595.jpg 147,180,218,354,8 203,211,336,374,8 369,227,500,375,8 143,166,483,375,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000624.jpg 317,66,343,101,14 341,75,360,105,14 390,61,407,87,14 387,68,422,134,14 430,77,459,140,14 465,61,500,164,14 3,57,91,265,14 1,171,78,285,14 61,53,500,315,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000625.jpg 395,209,486,294,14 271,214,373,291,14 270,274,372,334,14 171,204,263,278,14 76,194,164,273,14 76,273,162,326,14 67,82,169,160,14 64,16,162,96,14 174,17,274,92,14 172,85,283,184,14 279,21,376,110,14 283,94,418,183,14 389,88,500,183,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000631.jpg 198,31,420,340,3 68,75,259,331,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000650.jpg 103,2,416,375,15 40,32,139,254,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000668.jpg 15,107,456,262,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000670.jpg 189,46,500,375,14 2,61,202,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000683.jpg 124,2,284,333,14 284,48,500,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000686.jpg 283,91,498,301,13 14,100,303,308,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000701.jpg 132,43,499,295,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000702.jpg 236,130,434,349,12 119,149,290,337,12 420,150,466,230,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000708.jpg 351,183,490,369,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000709.jpg 120,63,334,355,14 119,57,394,352,14 377,122,473,309,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000730.jpg 5,52,495,234,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000742.jpg 391,129,412,168,3 1,145,311,335,3 212,99,296,253,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000763.jpg 20,116,484,212,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000764.jpg 79,80,366,271,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000766.jpg 111,2,483,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000781.jpg 103,66,489,400,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000784.jpg 1,88,75,265,15 91,107,169,371,14 157,114,211,370,14 188,96,260,363,14 236,88,292,361,14 287,83,352,351,14 329,90,380,353,14 376,100,425,342,14 114,26,157,119,14 118,64,165,117,14 153,35,191,111,14 178,49,239,134,14 233,47,293,137,14 274,57,305,129,14 302,58,340,111,14 340,45,382,124,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000789.jpg 158,163,232,231,16 230,176,328,250,16 260,158,360,233,16 344,117,382,148,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000811.jpg 149,133,337,269,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000816.jpg 122,225,407,467,1 153,122,309,474,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000817.jpg 227,131,291,149,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000829.jpg 217,166,452,280,5 1,171,199,290,5 355,1,385,20,6 468,315,492,351,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000836.jpg 69,99,224,297,14 93,162,226,442,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000861.jpg 1,1,315,189,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000887.jpg 25,49,473,247,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000892.jpg 350,191,427,375,14 190,212,344,375,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000903.jpg 41,25,407,366,14 30,117,323,500,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000922.jpg 126,94,218,224,18 242,55,347,348,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000929.jpg 1,65,500,375,10 261,64,295,201,4 253,23,276,95,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000931.jpg 104,302,224,338,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000936.jpg 299,10,347,63,0 314,105,364,156,0 334,149,378,200,0 261,208,305,254,0 155,277,201,329,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000949.jpg 155,196,303,463,1 3,176,151,426,1 145,36,328,412,14 1,48,159,393,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000952.jpg 15,95,246,332,14 196,103,412,332,14 465,189,492,236,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000970.jpg 344,128,414,214,18 1,64,500,375,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000990.jpg 208,35,460,333,14 5,34,234,334,14 6,114,55,177,14 402,134,450,187,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000996.jpg 139,214,303,375,8 28,211,167,373,8 1,213,76,323,8 5,157,500,375,10 19,6,93,175,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001006.jpg 1,248,68,375,14 178,142,312,251,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001017.jpg 108,320,186,456,13 85,205,199,408,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001021.jpg 138,34,465,375,8 1,51,183,375,14 199,40,401,375,14 75,223,121,290,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001025.jpg 1,146,371,500,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001030.jpg 36,77,442,265,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001034.jpg 196,196,452,316,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001040.jpg 126,125,229,332,14 135,112,366,331,14 362,200,479,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001055.jpg 139,102,440,334,14 136,123,500,334,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001059.jpg 125,242,271,292,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001072.jpg 80,213,418,309,17 160,170,316,309,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001076.jpg 27,81,224,141,3 418,83,496,120,3 114,114,328,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001085.jpg 68,15,447,314,6 440,3,483,112,14 2,2,86,204,14 101,1,128,71,14 414,1,426,48,14 421,1,444,58,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001095.jpg 260,134,359,348,14 205,165,284,253,14 175,122,237,262,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001101.jpg 143,61,225,211,14 2,28,217,332,14 306,79,401,311,14 370,82,496,330,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001102.jpg 33,1,283,149,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001105.jpg 2,219,335,375,10 203,88,423,374,14 443,42,500,375,14 124,176,142,239,4 83,188,113,254,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001112.jpg 323,87,406,214,18 61,168,125,202,6 181,279,261,335,15 259,299,350,335,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001126.jpg 155,70,345,279,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001155.jpg 22,134,336,308,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001176.jpg 272,82,451,340,3 196,298,252,314,3 139,252,175,315,3 33,213,81,317,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001194.jpg 72,180,281,340,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001198.jpg 1,2,422,372,6 376,103,408,162,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001199.jpg 305,254,500,375,13 86,177,395,375,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001206.jpg 274,1,429,288,14 172,141,236,326,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001213.jpg 234,376,375,471,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001216.jpg 316,64,380,159,7 1,137,196,250,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001228.jpg 211,209,309,349,7 320,2,500,241,14 181,39,288,235,14 135,27,189,229,14 65,26,134,230,14 16,42,105,237,14 411,9,465,72,14 299,23,360,237,14 259,38,315,237,14 1,48,40,126,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001249.jpg 2,319,340,477,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001264.jpg 69,25,447,348,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001273.jpg 53,132,392,419,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001280.jpg 63,76,480,298,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001314.jpg 68,2,369,323,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001317.jpg 16,11,181,254,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001319.jpg 68,204,254,375,8 111,99,266,340,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001328.jpg 133,114,322,319,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001337.jpg 92,139,213,459,12 77,93,237,313,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001338.jpg 248,58,337,128,19 3,209,263,375,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001345.jpg 391,167,456,258,8 287,167,356,262,8 341,150,408,234,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001366.jpg 286,271,351,330,11 102,261,139,329,11 209,149,262,275,14 257,149,296,280,14 282,165,375,331,14 57,179,122,330,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001372.jpg 300,76,333,233,14 185,72,294,476,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001386.jpg 5,57,487,370,13 463,79,497,103,6 484,90,500,113,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001391.jpg 7,174,348,375,17 360,16,407,86,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001394.jpg 43,97,109,135,3 132,34,500,290,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001397.jpg 128,121,214,263,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001405.jpg 83,59,273,435,12 135,89,271,453,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001408.jpg 114,245,178,448,4 56,107,230,387,14 20,68,50,167,4 210,1,333,108,14 84,87,333,366,14 119,1,184,130,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001409.jpg 226,74,464,240,6 298,93,325,122,14 348,92,395,123,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001412.jpg 179,101,394,285,12 217,83,313,289,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001418.jpg 32,34,344,473,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001427.jpg 153,199,270,341,1 249,159,332,275,1 229,58,319,266,14 159,114,267,297,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001429.jpg 420,98,473,226,4 453,71,498,184,4 1,54,498,369,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001441.jpg 136,277,446,376,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001444.jpg 91,262,327,375,17 226,196,387,327,8 368,186,428,241,15 29,208,58,259,4 164,140,219,276,15 143,152,176,191,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001459.jpg 132,121,281,375,14 250,122,373,375,14 134,173,148,213,14 114,182,140,213,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001460.jpg 138,68,225,242,14 119,128,315,282,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001476.jpg 199,143,327,266,13 200,56,302,217,14 461,107,482,160,14 325,99,404,131,6 29,99,47,141,14 88,115,129,145,13 381,126,411,145,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001489.jpg 329,63,346,107,4 181,161,205,241,4 156,181,176,247,4 128,181,161,261,4 1,88,491,333,10 5,1,82,84,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001491.jpg 2,95,199,230,6 93,97,433,266,6 448,108,500,260,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001493.jpg 389,77,475,287,14 424,90,500,375,14 183,82,312,375,14 35,33,222,375,14 29,223,44,270,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001497.jpg 227,1,500,80,3 1,93,135,133,3 164,129,328,163,3 40,111,173,164,3 139,138,415,199,3 62,47,132,84,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001503.jpg 288,157,340,220,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001514.jpg 12,52,312,333,14 219,131,467,332,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001526.jpg 3,18,114,298,14 109,51,214,297,14 212,35,316,297,14 289,33,387,297,14 381,15,500,297,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001531.jpg 48,131,226,375,8 279,63,463,375,14 103,60,225,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001549.jpg 26,60,113,139,19 9,84,226,333,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001558.jpg 1,56,286,329,14 283,15,500,328,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001570.jpg 61,15,397,314,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001575.jpg 2,232,18,290,14 27,236,51,289,14 56,237,76,289,14 330,227,350,282,14 265,238,283,273,14 432,223,469,353,14 470,234,500,354,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001603.jpg 320,125,383,199,14 371,45,422,108,14 362,71,450,111,1 312,160,414,214,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001605.jpg 205,230,237,259,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001617.jpg 351,42,471,106,13 334,116,500,331,13 181,133,358,322,13 192,100,348,265,14 320,67,493,279,14 343,4,416,100,14 170,56,271,159,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001619.jpg 3,21,224,240,13 66,2,196,166,14 2,2,137,183,14 176,1,499,157,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001620.jpg 11,283,212,450,1 132,235,322,436,1 59,200,145,420,14 84,132,253,410,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001621.jpg 1,39,500,352,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001628.jpg 104,74,420,344,12 200,55,320,217,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001629.jpg 5,188,135,330,8 17,228,289,375,17 235,71,500,372,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001631.jpg 76,6,201,498,4 4,3,373,446,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001673.jpg 36,110,440,319,7 418,1,482,131,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001684.jpg 17,6,465,422,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001712.jpg 2,216,131,375,15 99,39,262,375,14 187,70,364,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001714.jpg 127,302,208,357,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001720.jpg 105,214,130,295,4 164,214,189,295,4 5,142,175,374,14 116,136,202,242,14 220,133,316,206,14 298,138,394,246,14 264,150,486,374,14 12,198,355,362,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001737.jpg 8,27,476,315,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001748.jpg 135,25,236,188,14 95,85,232,253,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001751.jpg 157,57,498,331,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001764.jpg 278,103,349,147,9 221,106,282,148,9 134,103,223,148,9 98,97,144,133,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001795.jpg 178,141,301,281,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001804.jpg 75,40,419,321,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001807.jpg 290,115,411,224,12 201,136,296,216,12 54,105,196,192,12 330,100,363,194,14 238,103,267,185,14 113,85,150,169,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001808.jpg 253,62,322,317,14 368,67,417,218,14 422,85,489,332,14 1,76,57,312,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001810.jpg 261,170,364,268,19 1,51,236,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001835.jpg 17,54,298,374,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001863.jpg 168,79,419,284,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001864.jpg 403,214,500,333,8 218,60,381,375,14 91,83,216,375,14 61,55,249,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001866.jpg 86,81,369,272,11 29,1,143,247,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001874.jpg 17,82,244,495,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001879.jpg 38,270,275,446,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001884.jpg 200,216,311,251,5 309,213,416,245,5 130,112,435,211,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001889.jpg 51,137,150,284,13 211,106,332,330,13 348,130,426,264,13 123,82,176,242,14 327,95,375,209,14 348,89,437,239,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001906.jpg 103,147,393,272,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001912.jpg 8,45,487,226,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001917.jpg 191,167,266,210,9 416,181,482,217,9 341,173,420,220,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001924.jpg 90,109,444,264,6 396,97,500,259,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001925.jpg 365,1,486,261,4 270,1,376,257,4 175,1,273,245,4 81,1,177,230,4 1,1,79,217,4 1,198,79,298,4 47,250,137,333,4 82,206,160,313,4 171,214,252,323,4 135,259,227,333,4 251,220,335,331,4 222,268,316,333,4 337,231,424,331,4 316,277,398,333,4 414,287,498,333,4 423,240,500,322,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001930.jpg 335,113,390,181,18 79,73,217,203,18 220,126,314,327,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001945.jpg 69,108,238,331,14 93,161,221,477,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001973.jpg 144,39,304,256,7 79,26,236,254,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001977.jpg 180,48,481,234,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001991.jpg 4,97,369,299,6 315,76,500,202,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002020.jpg 35,80,418,305,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002035.jpg 181,147,500,374,17 266,54,406,180,15 89,102,128,162,15 14,1,104,132,15 130,103,182,146,15 146,38,183,107,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002036.jpg 234,123,383,175,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002068.jpg 231,113,372,196,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002094.jpg 72,1,335,331,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002095.jpg 5,21,289,380,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002101.jpg 142,360,333,487,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002105.jpg 169,96,407,276,13 237,99,358,240,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002106.jpg 1,2,359,500,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002112.jpg 136,2,375,500,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002115.jpg 192,101,280,254,9 343,75,373,113,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002116.jpg 177,206,425,373,11 235,126,424,263,17 33,103,231,238,17 177,41,258,72,6 36,1,131,221,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002126.jpg 220,2,500,375,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002139.jpg 194,1,400,338,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002140.jpg 39,86,256,215,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002144.jpg 1,114,312,233,2 391,254,433,308,2 153,29,171,58,2 42,301,78,355,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002171.jpg 41,174,191,329,14 35,247,170,401,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002175.jpg 11,216,85,240,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002181.jpg 367,1,468,156,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002185.jpg 168,111,500,331,13 43,93,313,265,13 312,31,500,293,14 130,46,293,216,14 289,14,420,70,6 277,21,298,56,14 128,53,161,109,13 107,49,132,103,13 63,52,110,104,13 1,58,61,106,13 335,25,396,78,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002201.jpg 4,23,498,374,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002217.jpg 42,73,273,155,0 191,111,422,183,0 345,152,500,212,0 74,149,299,221,0 227,188,486,257,0 118,220,372,294,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002236.jpg 31,30,385,302,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002239.jpg 344,176,432,306,1 297,181,349,266,1 116,144,189,270,1 341,79,424,283,14 290,132,344,262,14 111,61,186,245,14 10,75,61,140,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002241.jpg 4,172,150,277,6 139,189,218,272,6 167,152,216,286,14 242,164,297,288,14 233,164,254,282,14 295,180,335,283,14 332,162,373,287,14 376,176,404,286,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002246.jpg 6,73,326,471,0 54,210,82,277,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002249.jpg 3,2,499,332,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002260.jpg 107,61,447,287,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002304.jpg 19,47,499,333,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002308.jpg 174,81,340,361,7 43,249,139,432,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002310.jpg 154,30,484,333,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002317.jpg 111,3,500,280,5 221,168,278,371,14 167,192,224,375,14 150,159,206,374,14 26,121,76,272,14 1,123,20,275,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002318.jpg 29,167,188,340,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002320.jpg 69,33,282,202,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002328.jpg 107,61,351,315,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002331.jpg 138,87,288,333,12 114,12,309,265,14 222,54,479,333,14 2,56,53,103,6 70,52,120,101,6 224,57,292,99,6 292,54,370,97,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002347.jpg 287,251,344,334,15 165,253,241,328,15 72,253,131,312,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002356.jpg 4,54,158,223,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002404.jpg 352,70,389,167,4 2,82,500,375,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002411.jpg 129,163,300,259,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002414.jpg 337,222,500,319,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002419.jpg 113,106,379,262,13 160,56,277,215,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002433.jpg 15,111,105,290,14 1,103,328,375,14 302,42,500,375,14 471,23,496,52,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002456.jpg 5,1,85,126,8 20,1,114,119,8 1,76,500,375,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002460.jpg 295,184,446,358,1 308,82,426,368,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002461.jpg 164,49,320,270,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002462.jpg 54,75,500,158,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002473.jpg 4,17,494,329,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002474.jpg 121,102,250,262,3 85,89,212,271,3 68,114,183,283,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002482.jpg 60,362,140,456,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002493.jpg 27,203,314,375,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002499.jpg 7,61,500,333,10 260,1,500,251,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002520.jpg 209,186,257,283,12 331,167,382,285,14 440,181,468,285,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002521.jpg 11,59,496,255,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002527.jpg 1,40,373,500,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002532.jpg 185,111,500,231,18 111,175,157,205,6 68,172,114,203,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002536.jpg 3,136,489,330,10 246,117,266,180,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002547.jpg 195,142,272,284,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002550.jpg 32,50,333,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002558.jpg 95,125,215,290,1 330,170,438,344,1 86,39,222,268,14 330,74,448,319,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002563.jpg 417,245,433,284,14 372,247,421,281,6 120,254,135,294,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002615.jpg 177,107,200,132,16 343,263,383,288,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002617.jpg 46,134,125,232,8 13,129,67,220,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002629.jpg 250,168,339,197,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002637.jpg 60,188,231,282,7 237,42,380,130,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002638.jpg 217,78,297,146,19 212,174,346,375,8 129,79,221,167,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002643.jpg 1,51,89,152,6 407,57,453,174,14 180,102,281,207,14 181,133,302,282,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002652.jpg 149,112,396,337,11 196,1,316,309,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002655.jpg 82,84,423,303,12 164,50,286,212,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002658.jpg 163,92,189,202,4 103,8,147,115,15 146,11,183,118,15 181,43,234,117,15 274,3,472,324,14 56,181,387,333,10 279,100,466,302,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002676.jpg 426,273,458,296,9 382,271,418,300,9 348,244,384,296,9 286,252,337,304,9 245,248,286,299,9 204,252,256,308,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002691.jpg 1,232,192,365,11 64,27,478,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002699.jpg 89,119,427,236,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002701.jpg 339,260,500,318,6 133,267,305,323,6 7,267,28,321,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002704.jpg 12,97,332,500,6 106,83,297,166,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002719.jpg 53,100,468,238,3 158,130,188,168,14 183,108,206,136,14 144,107,167,132,14 87,126,122,150,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002748.jpg 31,173,41,199,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002756.jpg 1,1,231,500,18 160,185,188,257,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002765.jpg 362,119,492,172,0 203,116,360,172,0 19,117,131,174,0 118,125,213,172,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002780.jpg 254,95,476,280,12 1,92,103,305,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002788.jpg 52,142,249,272,10 5,114,129,176,10 319,70,500,334,14 235,70,336,334,14 249,70,273,112,14 133,194,215,300,8 30,183,135,298,8 8,163,95,269,8 2,135,57,194,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002790.jpg 107,86,301,500,12 57,256,136,317,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002824.jpg 1,13,500,431,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002844.jpg 141,37,500,248,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002852.jpg 38,57,298,157,11 68,147,458,237,11 22,202,387,361,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002894.jpg 1,107,495,315,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002897.jpg 448,244,464,282,14 265,238,280,280,14 210,236,227,279,14 147,235,162,276,14 119,232,139,278,14 88,230,107,278,14 58,229,72,277,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002906.jpg 149,195,293,380,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002919.jpg 27,4,363,361,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002921.jpg 94,162,233,447,12 90,97,229,299,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002928.jpg 93,55,373,292,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002946.jpg 283,192,380,307,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002950.jpg 113,321,229,500,4 86,1,333,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002966.jpg 2,2,500,333,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002980.jpg 39,3,482,493,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003001.jpg 63,33,343,500,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003003.jpg 199,139,349,375,14 344,130,500,375,14 27,181,97,341,14 1,174,32,319,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003013.jpg 85,117,432,291,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003017.jpg 139,117,453,301,12 174,99,309,234,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003027.jpg 131,93,345,206,6 138,93,397,289,12 182,57,251,196,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003050.jpg 130,166,257,233,16 141,151,231,191,16 310,85,334,105,16 426,258,500,339,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003061.jpg 286,11,446,220,8 93,25,259,158,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003066.jpg 139,170,255,270,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003088.jpg 107,269,154,366,4 69,65,330,375,14 209,91,286,211,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003107.jpg 1,131,274,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003109.jpg 203,154,358,256,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003127.jpg 3,2,499,350,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003134.jpg 64,86,184,317,14 160,72,300,284,14 270,1,483,366,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003150.jpg 194,71,463,340,14 108,44,257,188,14 1,53,132,286,14 1,69,303,273,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003151.jpg 46,201,161,354,1 80,105,224,313,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003157.jpg 137,57,303,185,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003159.jpg 330,84,448,316,14 52,97,191,294,14 1,63,41,298,14 266,218,287,286,4 248,200,269,268,4 188,294,219,360,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003165.jpg 42,52,273,301,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003172.jpg 43,126,192,334,14 150,94,321,334,14 246,60,418,334,14 321,21,500,322,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003191.jpg 3,1,351,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003202.jpg 334,119,398,206,8 172,139,295,275,8 26,117,127,251,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003204.jpg 172,195,278,299,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003208.jpg 33,163,465,332,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003215.jpg 105,232,178,287,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003238.jpg 59,77,408,397,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003247.jpg 261,14,380,332,14 158,29,265,335,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003251.jpg 120,159,392,340,10 278,226,446,375,8 258,158,353,283,8 109,174,218,330,8 135,148,202,233,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003260.jpg 261,111,326,198,19 11,58,112,449,14 118,76,201,431,14 187,72,261,425,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003268.jpg 1,119,496,268,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003281.jpg 2,110,21,208,15 22,122,75,208,15 75,154,115,217,15 177,288,204,358,15 195,284,220,351,15 210,235,237,400,15 245,238,259,373,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003287.jpg 1,9,333,242,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003290.jpg 238,76,403,285,12 121,129,248,246,12 181,90,230,202,14 312,24,404,218,14 286,80,314,106,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003304.jpg 115,204,220,436,12 80,67,253,404,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003308.jpg 174,58,257,104,7 11,277,181,500,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003330.jpg 268,96,375,247,2 166,70,238,146,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003340.jpg 83,242,270,438,13 103,192,233,362,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003344.jpg 139,133,415,277,6 116,117,176,154,6 59,89,119,278,14 213,90,257,103,6 245,89,291,103,6 291,89,338,107,6 405,90,451,111,6 436,87,493,115,6 473,89,500,116,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003349.jpg 88,55,327,289,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003352.jpg 1,223,193,448,11 96,44,336,448,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003356.jpg 99,63,387,326,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003370.jpg 162,93,289,276,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003373.jpg 232,160,441,329,11 176,1,330,196,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003376.jpg 114,264,216,375,8 369,210,485,375,8 458,305,479,375,4 192,118,302,375,14 415,192,500,324,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003390.jpg 147,116,403,340,6 104,73,143,250,14 1,71,61,375,14 45,89,80,168,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003397.jpg 232,197,334,315,14 15,168,258,321,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003405.jpg 49,121,279,248,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003418.jpg 151,259,205,384,11 1,355,182,447,11 253,244,354,380,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003430.jpg 150,128,355,324,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003435.jpg 255,17,500,334,14 55,151,266,334,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003458.jpg 120,121,326,474,2 17,161,224,493,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003460.jpg 105,129,500,289,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003466.jpg 177,15,445,283,14 1,100,43,174,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003480.jpg 1,13,499,375,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003495.jpg 167,237,215,292,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003516.jpg 61,154,439,291,10 367,132,478,287,8 2,132,111,284,8 270,154,363,315,8 177,155,262,308,8 71,153,181,312,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003523.jpg 170,136,348,269,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003540.jpg 5,3,328,198,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003542.jpg 210,226,308,286,1 137,225,224,287,1 36,245,150,324,1 229,183,286,270,14 153,180,213,279,14 100,186,154,245,14 61,195,138,296,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003598.jpg 82,11,280,141,2 55,150,143,361,2 10,266,74,368,2 82,114,290,266,2 160,267,327,370,2 99,34,486,364,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003602.jpg 3,54,170,333,14 85,47,302,333,14 267,34,500,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003618.jpg 219,105,271,226,14 225,119,245,165,14 58,140,90,193,14 156,160,390,265,12 57,154,92,223,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003631.jpg 394,37,500,341,14 135,60,156,91,14 87,59,103,78,14 212,40,264,88,14 373,45,403,68,14 3,62,440,341,6 22,78,137,143,6 216,43,262,91,14 200,118,264,203,14 135,61,153,90,14 86,58,104,77,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003637.jpg 2,152,465,251,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003641.jpg 1,277,345,500,17 158,75,245,306,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003687.jpg 192,222,355,310,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003697.jpg 213,195,336,375,4 91,189,217,342,4 58,132,219,375,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003702.jpg 3,103,500,275,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003710.jpg 1,25,433,280,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003724.jpg 99,121,348,267,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003762.jpg 181,184,312,266,11 31,259,48,294,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003799.jpg 1,1,167,224,3 24,3,355,500,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003806.jpg 426,85,500,165,6 85,27,433,261,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003812.jpg 199,88,369,375,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003820.jpg 1,3,500,375,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003821.jpg 50,42,405,374,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003828.jpg 168,53,223,86,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003835.jpg 176,278,289,332,6 7,276,45,300,6 43,197,185,313,5 1,231,34,291,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003861.jpg 115,52,287,294,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003870.jpg 1,153,356,374,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003873.jpg 74,72,500,203,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003878.jpg 58,2,500,375,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003883.jpg 101,56,382,292,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003890.jpg 7,270,282,500,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003891.jpg 306,247,332,339,14 251,252,298,313,14 146,234,182,284,14 69,249,118,352,14 29,231,55,298,14 51,231,76,298,14 3,314,331,500,6 5,284,332,395,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003918.jpg 26,78,285,500,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003956.jpg 2,76,375,500,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004017.jpg 237,1,450,217,15 10,4,450,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004068.jpg 306,184,348,328,4 270,172,305,241,4 260,18,430,259,14 86,22,195,151,8 1,38,112,138,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004069.jpg 153,106,298,375,2 241,61,387,309,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004073.jpg 236,87,500,374,14 403,208,465,234,6 19,147,200,245,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004094.jpg 27,33,473,303,5 66,157,106,202,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004097.jpg 398,148,500,205,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004109.jpg 139,74,354,322,8 157,63,324,291,14 107,3,181,180,14 3,2,82,300,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004113.jpg 171,2,487,372,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004125.jpg 190,81,489,375,14 45,1,245,334,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004134.jpg 105,3,143,111,4 147,3,172,103,4 184,1,212,103,4 219,1,238,100,4 243,1,276,93,4 326,298,394,400,4 324,243,408,380,4 125,312,231,349,4 195,292,299,323,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004146.jpg 47,60,500,375,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004159.jpg 17,78,208,363,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004163.jpg 248,197,355,316,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004188.jpg 213,1,500,375,7 135,183,158,216,6 111,128,145,163,6 72,131,102,170,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004215.jpg 8,2,405,374,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004233.jpg 123,144,415,348,9 75,111,107,152,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004246.jpg 98,148,242,375,14 34,4,428,299,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004247.jpg 111,199,219,259,2 186,174,228,248,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004248.jpg 178,242,266,333,14 185,156,241,221,14 434,155,457,189,14 242,137,271,169,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004261.jpg 213,140,298,193,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004271.jpg 212,270,254,347,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004278.jpg 14,141,449,289,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004291.jpg 3,1,374,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004304.jpg 173,119,430,302,6 52,22,160,352,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004313.jpg 12,180,479,411,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004322.jpg 3,350,50,489,4 3,37,241,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004327.jpg 12,66,493,415,11 132,1,403,397,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004329.jpg 440,176,485,212,6 350,133,439,228,6 198,181,295,258,6 82,163,126,266,14 166,163,213,309,14 227,161,268,307,14 288,158,323,270,14 345,144,375,271,14 298,156,376,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004333.jpg 355,39,413,264,4 413,65,465,268,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004344.jpg 102,224,202,407,1 103,140,196,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004348.jpg 1,48,500,380,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004350.jpg 197,114,357,302,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004352.jpg 5,96,493,370,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004358.jpg 30,93,403,443,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004364.jpg 109,164,221,267,17 11,134,77,332,15 249,165,282,216,8 209,145,240,175,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004377.jpg 200,175,220,201,0 201,207,217,228,0 193,260,211,283,0 186,285,202,310,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004382.jpg 129,149,398,212,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004400.jpg 105,2,382,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004409.jpg 1,1,361,275,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004411.jpg 1,41,429,375,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004416.jpg 90,124,378,308,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004428.jpg 113,68,268,266,11 1,1,258,248,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004429.jpg 11,118,496,336,6 71,8,220,124,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004430.jpg 93,25,245,302,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004433.jpg 49,350,341,500,11 123,78,258,409,14 98,79,168,154,14 222,15,290,115,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004440.jpg 87,4,461,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004444.jpg 49,19,407,307,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004451.jpg 7,252,187,375,15 37,169,172,261,15 153,222,238,349,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004458.jpg 55,167,431,270,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004459.jpg 99,202,118,251,14 47,202,64,244,14 2,12,500,267,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004466.jpg 220,74,241,129,14 88,77,103,113,14 57,82,75,114,14 408,61,450,165,14 372,61,408,167,14 269,15,378,297,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004467.jpg 174,46,390,308,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004475.jpg 67,118,333,465,13 305,307,358,435,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004508.jpg 37,53,61,129,4 373,209,386,265,4 380,215,397,268,4 19,98,282,331,14 443,3,500,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004517.jpg 2,98,355,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004524.jpg 311,273,383,344,2 256,131,309,171,2 461,198,500,243,2 107,1,186,21,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004525.jpg 373,1,500,120,8 48,1,500,334,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004551.jpg 1,1,493,375,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004571.jpg 224,120,387,243,9 56,42,168,236,9 209,51,239,157,14 237,56,263,150,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004585.jpg 23,238,101,314,9 100,207,176,267,9 257,243,340,302,9 203,188,262,242,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004589.jpg 87,38,391,335,12 221,40,317,180,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004598.jpg 133,61,228,330,14 185,71,274,333,14 263,71,360,333,14 343,42,499,330,14 433,71,500,181,14 21,53,157,332,14 1,80,51,236,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004615.jpg 1,337,32,404,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004640.jpg 58,135,397,375,10 11,269,160,374,8 190,113,211,172,4 146,101,162,165,4 213,128,234,211,4 237,134,264,213,4 249,61,500,375,14 1,57,29,142,14 4,76,153,345,14 71,57,163,134,14 220,60,284,150,14 264,57,348,172,14 277,68,431,206,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004645.jpg 5,121,496,250,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004649.jpg 36,126,393,237,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004653.jpg 51,109,276,448,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004661.jpg 93,92,489,375,14 1,138,212,312,14 107,139,500,373,8 74,120,282,292,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004664.jpg 17,329,137,488,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004680.jpg 106,153,349,254,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004695.jpg 323,216,475,343,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004702.jpg 34,166,195,257,2 404,112,494,212,2 126,16,217,114,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004713.jpg 60,3,500,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004714.jpg 139,51,256,224,8 2,43,77,203,8 317,75,408,149,15 219,161,260,214,15 127,232,217,274,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004720.jpg 241,146,320,228,7 154,154,169,193,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004721.jpg 157,241,187,332,4 309,296,334,334,4 111,121,227,320,14 203,134,292,331,14 283,126,384,334,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004725.jpg 189,85,381,320,14 8,57,470,375,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004726.jpg 2,22,426,375,14 239,50,500,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004761.jpg 2,26,375,450,14 25,165,375,500,1 3,1,71,121,14 119,1,173,40,14 259,1,324,206,14 319,2,360,110,14 317,61,375,143,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004762.jpg 66,64,468,254,5 111,133,138,166,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004769.jpg 200,178,500,375,1 68,52,171,365,14 401,241,439,289,14 354,237,413,313,14 188,167,203,190,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004799.jpg 61,111,328,474,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004806.jpg 43,195,316,296,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004807.jpg 118,24,382,301,12 140,134,264,340,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004820.jpg 2,352,65,500,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004834.jpg 140,94,270,304,14 153,128,252,441,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004835.jpg 4,2,276,333,14 295,3,500,332,14 1,194,272,333,1 284,171,500,333,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004849.jpg 143,191,250,281,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004879.jpg 262,158,332,202,1 269,136,309,192,14 174,131,197,189,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004902.jpg 1,141,192,374,12 79,124,265,364,12 217,118,389,375,14 195,68,500,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004908.jpg 76,47,293,426,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004910.jpg 22,182,306,394,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004922.jpg 216,125,369,192,4 105,42,291,332,14 202,1,500,330,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004933.jpg 148,163,227,200,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004953.jpg 168,239,220,311,1 165,166,220,302,14 55,176,111,286,14 246,167,297,294,14 323,155,381,292,14 31,186,65,305,14 1,174,24,301,14 401,158,427,250,14 429,159,454,255,14 452,154,474,252,14 468,150,497,250,14 216,141,318,238,5 259,132,412,243,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004971.jpg 199,177,430,374,8 3,175,174,374,14 217,135,437,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004977.jpg 1,1,464,280,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004979.jpg 178,117,304,280,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004982.jpg 5,111,500,221,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004986.jpg 140,305,185,392,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004994.jpg 186,151,377,354,14 126,175,329,354,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004995.jpg 200,166,309,302,12 225,140,265,250,14 106,214,235,390,12 158,168,227,330,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004996.jpg 42,89,480,347,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005020.jpg 270,181,436,234,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005028.jpg 4,77,312,322,6 294,118,495,292,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005033.jpg 107,122,478,348,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005053.jpg 22,144,69,202,12 160,126,218,203,12 263,124,332,205,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005065.jpg 1,57,479,298,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005073.jpg 410,85,500,151,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005074.jpg 36,152,387,297,3 343,194,426,240,6 396,201,469,233,6 22,189,83,222,6 419,260,472,297,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005087.jpg 178,111,358,290,13 185,35,334,234,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005106.jpg 124,193,289,245,0 352,219,417,243,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005143.jpg 6,10,258,278,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005144.jpg 1,12,331,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005145.jpg 2,359,241,500,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005166.jpg 36,61,395,277,6 1,64,104,168,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005167.jpg 242,169,270,215,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005180.jpg 169,377,375,500,8 1,301,73,423,8 93,289,189,419,15 84,250,135,319,15 22,246,94,327,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005182.jpg 154,88,369,266,12 202,27,264,208,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005203.jpg 118,103,332,351,11 3,2,499,375,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005207.jpg 50,104,386,353,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005224.jpg 1,86,52,307,15 36,90,480,304,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005225.jpg 1,165,344,364,11 1,26,422,364,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005235.jpg 110,175,283,364,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005241.jpg 102,1,500,349,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005273.jpg 108,55,285,156,6 235,84,418,153,6 336,12,415,160,14 397,50,439,154,14 1,112,305,357,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005279.jpg 28,29,313,302,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005291.jpg 31,13,485,375,14 379,45,430,138,14 462,43,500,123,14 430,43,467,128,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005309.jpg 1,8,464,321,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005334.jpg 1,128,310,500,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005337.jpg 284,99,357,130,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005362.jpg 180,230,226,289,8 133,227,179,291,8 84,226,135,283,8 276,230,315,291,8 328,230,347,281,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005393.jpg 53,46,432,175,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005397.jpg 315,172,500,375,17 165,163,251,295,8 249,174,330,290,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005400.jpg 1,41,500,375,17 111,79,414,375,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005410.jpg 263,148,364,333,14 282,239,353,333,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005417.jpg 1,1,384,373,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005420.jpg 32,22,395,464,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005445.jpg 32,233,353,497,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005454.jpg 89,82,227,271,19 363,174,500,375,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005455.jpg 89,34,333,250,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005467.jpg 345,107,408,303,4 402,64,498,241,14 347,71,427,184,14 38,21,220,375,14 111,192,500,375,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005468.jpg 16,37,472,457,13 199,13,386,438,14 380,107,500,232,6 3,98,153,204,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005476.jpg 93,106,375,500,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005496.jpg 164,107,454,299,3 415,202,437,233,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005497.jpg 2,167,334,500,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005500.jpg 266,94,500,374,14 39,94,281,352,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005503.jpg 72,60,489,324,1 359,50,490,290,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005504.jpg 1,160,500,315,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005506.jpg 97,96,360,270,13 169,50,348,258,14 276,3,371,142,14 93,15,167,79,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005507.jpg 143,194,175,216,1 243,171,261,217,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005537.jpg 50,137,387,290,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005564.jpg 20,40,213,387,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005567.jpg 175,214,306,366,15 161,145,302,223,15 3,2,83,139,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005573.jpg 121,57,323,373,14 3,54,418,373,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005575.jpg 6,108,496,277,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005581.jpg 98,173,140,227,7 184,157,236,223,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005584.jpg 334,192,488,319,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005586.jpg 116,107,212,301,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005607.jpg 174,121,344,263,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005611.jpg 93,53,343,319,12 163,22,266,199,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005619.jpg 1,1,500,375,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005628.jpg 1,46,500,375,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005631.jpg 1,118,206,498,5 273,290,303,376,14 320,288,359,403,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005632.jpg 2,64,297,278,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005634.jpg 273,54,435,307,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005635.jpg 1,107,144,375,4 122,185,199,375,4 185,195,311,375,4 105,81,206,220,4 201,60,303,274,4 284,58,362,269,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005642.jpg 163,69,371,293,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005650.jpg 86,67,389,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005659.jpg 71,166,192,209,18 1,142,79,233,18 186,60,500,260,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005660.jpg 262,218,382,389,18 190,304,220,394,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005662.jpg 121,136,227,295,14 262,203,271,226,4 245,207,254,245,4 231,200,243,241,4 212,202,223,234,4 1,273,349,500,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005663.jpg 1,155,75,196,5 259,307,363,335,6 40,179,79,198,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005670.jpg 67,84,464,304,5 12,203,59,279,14 44,220,117,274,3 113,201,224,266,3 373,241,500,297,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005672.jpg 305,65,341,172,4 1,1,138,191,14 1,107,377,500,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005674.jpg 10,63,288,476,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005679.jpg 440,47,500,119,6 42,27,443,330,6 2,74,115,312,6 33,42,140,124,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005684.jpg 74,247,186,291,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005701.jpg 273,274,317,312,8 161,270,219,344,8 86,277,146,355,8 4,277,109,406,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005709.jpg 154,54,293,257,14 76,130,313,287,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005717.jpg 53,45,160,87,6 170,52,235,70,6 320,52,390,85,6 1,71,65,151,6 153,96,266,217,14 307,161,376,220,14 290,178,497,375,14 190,270,298,375,14 1,95,178,375,14 110,209,358,346,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005721.jpg 331,260,348,322,4 206,228,226,304,4 5,149,488,375,17 104,146,395,375,14 250,139,500,344,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005735.jpg 1,100,493,287,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005737.jpg 2,2,483,288,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005752.jpg 3,40,433,322,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005756.jpg 40,167,463,303,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005764.jpg 1,17,109,461,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005765.jpg 2,2,338,374,14 251,4,500,375,14 1,1,118,262,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005766.jpg 190,92,252,202,14 356,87,404,173,14 350,94,464,216,14 14,140,102,261,8 459,138,500,259,8 387,146,462,261,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005784.jpg 130,114,417,243,8 6,22,410,278,14 7,106,494,438,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005790.jpg 267,34,500,281,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005795.jpg 2,32,487,500,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005812.jpg 291,182,466,275,11 11,165,127,291,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005825.jpg 1,1,401,333,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005840.jpg 1,136,118,500,14 77,160,245,500,14 212,160,303,500,14 326,180,493,500,14 258,165,381,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005843.jpg 124,199,294,312,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005846.jpg 164,132,305,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005852.jpg 231,206,317,277,19 129,220,320,475,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005875.jpg 37,4,464,368,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005882.jpg 131,231,257,497,12 143,150,252,341,14 233,340,335,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005891.jpg 192,1,379,229,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005904.jpg 44,125,447,256,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005905.jpg 194,2,359,283,14 2,2,246,283,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005914.jpg 422,226,486,273,3 243,227,360,264,3 2,227,233,296,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005922.jpg 71,245,194,367,15 226,252,344,352,15 2,250,73,349,15 394,28,500,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005927.jpg 24,82,487,254,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005938.jpg 135,73,401,313,14 3,102,152,312,14 148,116,224,221,14 8,127,53,175,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005946.jpg 100,9,491,319,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005962.jpg 3,79,302,334,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005967.jpg 89,22,212,198,12 115,28,171,134,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005970.jpg 93,114,333,500,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005991.jpg 8,56,107,230,15 124,207,217,419,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006014.jpg 177,20,325,454,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006038.jpg 176,220,256,257,6 373,233,447,315,13 379,195,429,290,14 397,203,443,292,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006045.jpg 1,147,149,343,8 156,167,500,375,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006047.jpg 150,151,227,192,6 218,146,279,188,6 277,138,334,183,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006073.jpg 130,54,496,346,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006078.jpg 27,187,91,284,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006083.jpg 76,73,379,362,13 394,77,460,211,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006095.jpg 264,148,496,280,9 98,123,237,248,12 150,77,189,181,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006099.jpg 1,1,495,355,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006102.jpg 157,148,317,223,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006103.jpg 2,308,67,371,6 72,295,96,351,14 203,291,223,341,14 350,294,366,333,14 390,293,406,326,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006116.jpg 169,98,343,232,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006119.jpg 94,137,203,283,13 191,68,452,333,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006133.jpg 87,79,422,283,6 1,102,157,181,6 2,82,63,196,14 455,96,485,174,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006134.jpg 125,99,442,318,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006136.jpg 54,183,166,262,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006156.jpg 2,2,451,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006172.jpg 61,171,381,358,14 158,11,361,319,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006183.jpg 54,207,360,436,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006186.jpg 73,1,499,319,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006213.jpg 42,240,355,444,6 351,254,375,408,14 280,253,315,326,14 316,253,347,329,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006242.jpg 382,152,464,209,6 283,156,358,211,6 157,153,241,212,6 36,153,139,214,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006250.jpg 59,124,279,270,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006251.jpg 75,238,146,286,16 160,221,201,255,16 127,232,179,269,16 397,225,426,263,16 323,222,361,260,16 227,232,272,269,16 170,199,203,221,16 358,199,382,218,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006255.jpg 1,4,369,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006285.jpg 256,78,343,237,14 139,87,230,239,14 242,117,352,308,12 143,129,238,306,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006292.jpg 75,199,364,333,1 157,109,320,304,14 355,119,453,316,14 117,25,197,274,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006296.jpg 199,57,331,400,14 320,7,496,400,14 1,9,199,400,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006314.jpg 103,114,354,373,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006317.jpg 1,2,500,301,5 239,209,478,375,1 249,67,396,368,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006325.jpg 276,277,363,353,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006326.jpg 333,73,500,181,6 21,76,392,320,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006341.jpg 39,87,347,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006351.jpg 89,55,390,375,14 358,119,465,230,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006372.jpg 167,41,500,300,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006378.jpg 278,171,369,283,9 159,174,219,262,9 140,89,189,175,14 170,111,190,167,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006385.jpg 219,158,295,325,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006397.jpg 47,44,427,174,6 19,60,178,171,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006404.jpg 121,232,176,270,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006417.jpg 78,109,401,262,6 1,126,79,278,6 8,116,105,190,6 283,82,499,233,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006419.jpg 57,348,153,485,8 127,406,217,500,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006425.jpg 74,37,300,490,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006436.jpg 170,36,376,282,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006453.jpg 323,82,450,375,14 219,68,351,369,14 164,121,246,374,14 60,73,184,371,14 1,245,61,375,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006460.jpg 9,23,346,375,14 373,301,443,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006461.jpg 25,202,55,310,8 46,205,125,324,8 127,209,210,327,8 28,217,211,328,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006466.jpg 1,24,482,358,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006470.jpg 192,133,287,324,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006491.jpg 173,27,219,116,16 297,31,363,114,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006525.jpg 3,310,168,433,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006528.jpg 168,1,500,210,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006529.jpg 4,48,214,375,14 171,77,394,256,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006591.jpg 217,185,341,332,9 208,153,235,216,14 188,152,207,215,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006593.jpg 2,3,499,333,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006608.jpg 23,61,436,317,1 259,1,357,223,14 340,1,447,163,14 388,1,500,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006610.jpg 72,36,151,284,4 143,50,220,288,4 118,1,439,117,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006623.jpg 145,106,271,432,12 31,114,183,439,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006650.jpg 195,116,346,291,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006655.jpg 43,161,323,391,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006658.jpg 119,158,382,345,10 160,99,204,186,14 200,104,264,205,14 259,102,327,209,14 304,117,387,219,14 362,131,415,222,14 288,145,490,375,14 1,96,71,269,14 39,86,137,239,14 79,121,297,372,14 1,215,72,373,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006678.jpg 133,96,459,365,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006680.jpg 33,11,459,359,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006692.jpg 1,1,284,331,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006696.jpg 36,77,163,368,14 291,160,358,261,14 390,110,500,314,14 1,326,454,439,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006704.jpg 34,1,341,213,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006708.jpg 164,151,206,182,9 305,181,380,286,9 398,181,452,281,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006778.jpg 192,25,309,368,2 246,116,411,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006779.jpg 9,55,459,307,12 217,26,353,129,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006801.jpg 82,126,500,295,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006806.jpg 93,114,351,360,15 294,1,500,196,15 95,1,299,124,15 1,2,89,301,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006820.jpg 100,1,500,374,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006855.jpg 24,33,309,496,1 24,1,66,105,14 1,1,31,114,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006856.jpg 52,118,278,432,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006869.jpg 167,111,493,273,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006927.jpg 278,120,480,375,2 1,1,408,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006930.jpg 2,136,493,375,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006938.jpg 4,158,131,375,14 432,122,500,371,14 404,173,489,326,14 118,120,331,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006939.jpg 217,2,500,375,14 1,32,229,375,14 115,78,132,148,4 130,73,150,149,4 147,71,171,149,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006948.jpg 126,298,199,375,4 182,4,500,375,14 2,30,170,375,14 243,230,288,262,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006951.jpg 137,109,451,290,13 205,81,359,276,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006961.jpg 1,1,333,500,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006974.jpg 397,183,480,233,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006979.jpg 65,31,416,500,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006982.jpg 220,130,281,224,12 333,107,363,157,12 220,99,278,195,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006984.jpg 365,62,400,97,19 310,61,342,90,19 255,60,286,87,19 209,59,241,82,19 165,57,190,82,19 84,67,121,97,19 34,72,79,103,19 1,77,28,115,19 46,104,127,174,19 124,92,187,145,19 185,83,231,127,19 218,77,256,113,19 161,234,314,300,8 257,181,354,276,8 352,118,393,185,8 303,100,344,151,8 253,118,297,167,8 234,138,290,201,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006988.jpg 62,66,387,307,6 78,114,128,139,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007000.jpg 268,220,362,333,2 97,15,375,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007003.jpg 188,216,327,287,5 38,256,235,375,6 196,256,313,363,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007004.jpg 102,238,150,320,1 100,201,150,303,14 318,206,463,280,6 160,197,199,222,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007013.jpg 234,71,373,333,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007019.jpg 397,100,487,222,14 259,50,397,334,14 150,57,311,334,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007027.jpg 1,55,465,239,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007039.jpg 121,57,323,243,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007053.jpg 26,91,158,332,14 158,117,265,332,14 252,110,401,332,14 259,133,401,332,14 355,111,479,332,14 217,35,444,140,14 1,2,230,160,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007064.jpg 157,261,462,375,10 367,226,465,365,8 47,177,136,273,8 146,181,276,257,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007065.jpg 166,58,382,307,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007066.jpg 257,208,397,272,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007067.jpg 171,287,333,394,17 1,373,115,500,8 78,270,141,341,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007072.jpg 2,25,394,372,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007074.jpg 33,89,479,305,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007092.jpg 56,92,374,480,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007113.jpg 96,163,127,238,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007117.jpg 412,306,456,376,4 128,131,396,376,14 135,170,160,221,14 146,165,181,222,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007126.jpg 305,36,431,332,14 192,182,298,333,14 84,206,206,333,14 1,69,143,181,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007157.jpg 47,123,481,296,0 263,167,298,294,14 224,181,271,289,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007173.jpg 72,36,377,312,3 397,179,417,262,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007175.jpg 90,2,500,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007177.jpg 5,194,333,500,10 114,151,136,238,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007214.jpg 30,351,113,491,11 84,132,209,499,14 183,105,336,498,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007216.jpg 230,295,270,408,12 217,260,280,347,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007223.jpg 5,1,370,333,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007238.jpg 65,204,219,404,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007239.jpg 37,55,436,230,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007243.jpg 3,43,371,372,12 63,130,266,373,14 249,178,360,374,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007263.jpg 276,160,319,204,19 44,167,161,291,8 157,201,486,358,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007267.jpg 167,139,204,253,14 367,158,399,177,6 96,86,475,187,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007273.jpg 75,121,486,268,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007275.jpg 1,67,300,211,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007294.jpg 270,172,361,252,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007297.jpg 47,61,440,192,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007298.jpg 3,1,278,330,5 291,135,333,275,14 217,132,268,266,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007299.jpg 109,191,166,290,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007304.jpg 115,179,333,500,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007307.jpg 155,96,447,290,13 244,57,385,266,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007309.jpg 5,28,332,470,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007313.jpg 15,77,99,271,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007316.jpg 1,51,375,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007336.jpg 46,189,149,472,14 226,203,325,478,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007339.jpg 73,90,384,310,6 246,36,403,153,6 170,112,199,149,14 267,134,299,162,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007351.jpg 104,103,144,234,4 167,176,189,243,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007363.jpg 32,98,419,264,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007371.jpg 25,194,276,333,1 97,128,244,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007380.jpg 266,219,298,247,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007417.jpg 40,67,306,208,11 304,105,451,211,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007446.jpg 43,241,218,500,1 53,9,203,380,14 192,125,346,184,6 1,121,43,147,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007468.jpg 3,1,493,359,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007481.jpg 61,53,362,317,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007483.jpg 2,35,500,376,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007487.jpg 185,2,499,375,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007513.jpg 1,11,461,333,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007514.jpg 1,2,229,253,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007516.jpg 267,161,500,331,9 179,150,316,263,9 35,127,235,196,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007523.jpg 248,51,498,142,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007533.jpg 67,22,249,332,3 358,49,493,325,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007566.jpg 2,30,496,334,6 90,1,189,70,6 440,2,496,120,14 348,37,366,53,14 185,4,216,35,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007568.jpg 35,1,466,374,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007579.jpg 143,60,364,375,14 387,55,500,375,14 411,57,458,128,14 1,4,101,340,14 143,72,224,365,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007580.jpg 373,278,408,290,6 68,277,83,312,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007608.jpg 241,132,295,245,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007617.jpg 1,84,134,234,6 74,84,437,271,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007622.jpg 2,1,497,330,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007635.jpg 316,14,500,211,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007636.jpg 99,123,226,469,12 94,104,250,309,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007646.jpg 235,172,410,317,1 291,111,405,286,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007651.jpg 76,111,261,262,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007704.jpg 31,194,72,244,15 78,170,305,345,17 318,171,500,287,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007711.jpg 90,173,450,321,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007717.jpg 4,112,472,296,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007726.jpg 22,18,324,454,18 7,273,22,305,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007734.jpg 31,92,277,282,6 276,121,366,210,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007736.jpg 57,149,134,206,5 180,176,244,213,6 150,178,188,204,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007738.jpg 2,1,374,500,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007740.jpg 197,136,266,363,4 279,75,337,326,4 356,196,383,290,4 239,144,318,353,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007743.jpg 116,149,218,275,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007761.jpg 9,18,500,308,6 19,2,63,81,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007763.jpg 366,71,497,375,14 256,69,377,285,14 139,103,207,253,14 162,79,272,266,14 49,178,163,375,14 110,196,244,375,14 203,216,393,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007767.jpg 83,89,500,289,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007779.jpg 111,248,186,298,6 186,221,305,298,6 305,247,387,295,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007791.jpg 30,61,440,326,11 256,233,470,360,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007793.jpg 130,134,500,334,13 195,49,322,211,14 360,123,431,217,14 343,81,386,146,14 469,103,500,169,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007816.jpg 153,169,202,225,14 243,170,311,203,17 197,167,234,209,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007828.jpg 237,1,395,214,8 104,43,287,277,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007829.jpg 82,77,333,362,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007834.jpg 91,48,277,448,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007843.jpg 49,306,471,450,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007847.jpg 170,110,465,294,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007851.jpg 111,91,408,278,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007895.jpg 1,59,285,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007909.jpg 88,96,182,143,17 29,95,97,139,17 2,138,174,210,10 216,113,267,167,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007917.jpg 21,109,228,372,14 290,100,499,375,14 186,61,362,373,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007922.jpg 198,245,283,312,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007924.jpg 58,10,216,193,2 17,239,178,327,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007940.jpg 90,16,383,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007949.jpg 386,186,486,276,5 279,181,396,292,5 178,176,291,306,5 3,157,192,344,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007971.jpg 1,1,500,333,6 179,83,323,261,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007977.jpg 82,28,500,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007991.jpg 3,99,500,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008001.jpg 252,25,500,131,6 393,86,500,151,6 52,96,458,282,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008004.jpg 195,192,325,310,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008005.jpg 1,64,302,375,9 1,44,419,179,9 336,179,426,250,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008011.jpg 27,16,271,252,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008022.jpg 292,10,500,333,14 1,25,210,333,14 152,96,277,331,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008034.jpg 50,79,228,210,13 224,81,415,236,13 245,39,415,229,14 84,36,229,205,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008041.jpg 3,129,283,497,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008042.jpg 75,138,500,364,17 67,61,213,261,14 96,269,121,344,4 116,268,135,334,4 123,255,142,319,4 145,259,171,326,4 154,240,173,307,4 38,193,57,261,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008047.jpg 85,252,289,472,19 150,1,324,184,6 250,30,375,349,6 121,1,170,107,6 98,1,133,71,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008059.jpg 121,15,206,135,14 107,51,203,203,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008075.jpg 1,64,298,375,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008086.jpg 114,4,500,317,18 417,80,436,107,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008090.jpg 118,174,355,347,9 14,124,43,146,9 362,133,387,153,9 436,157,476,197,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008104.jpg 1,76,458,282,0 231,204,266,282,14 409,189,450,310,14 362,188,401,311,14 341,190,376,303,14 472,193,499,274,14 444,192,474,262,14 426,186,447,258,14 135,204,192,222,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008118.jpg 105,164,285,271,2 278,178,489,292,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008121.jpg 77,18,243,255,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008133.jpg 101,138,419,344,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008134.jpg 19,8,71,147,4 73,10,122,146,4 124,9,172,147,4 178,20,219,147,4 222,22,267,148,4 272,22,322,149,4 327,22,373,147,4 377,21,423,147,4 429,22,477,149,4 20,195,65,319,4 69,195,114,319,4 121,198,163,318,4 173,196,213,320,4 220,196,263,318,4 271,182,316,304,4 325,196,367,318,4 373,193,417,316,4 426,195,468,317,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008143.jpg 219,181,348,254,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008145.jpg 1,153,404,356,3 343,202,500,358,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008171.jpg 43,221,97,317,8 86,216,131,299,8 1,233,90,312,10 380,96,495,362,15 299,137,366,253,15 118,112,338,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008195.jpg 1,78,500,376,13 33,1,282,288,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008216.jpg 280,276,315,407,15 217,322,242,365,15 201,409,270,500,8 263,422,333,500,8 227,407,374,500,10 88,308,154,500,14 158,302,197,351,14 153,321,205,479,14 46,305,68,387,14 66,312,85,385,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008236.jpg 199,156,253,192,0 220,188,268,227,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008239.jpg 218,43,412,269,14 52,62,241,290,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008245.jpg 73,213,500,375,10 199,310,304,375,8 46,234,189,362,8 2,227,81,370,8 357,162,429,288,14 298,150,364,260,14 256,158,315,248,14 211,149,262,236,14 100,153,188,223,14 26,174,86,297,14 290,98,323,161,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008276.jpg 100,66,499,375,14 345,188,452,229,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008301.jpg 153,191,375,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008308.jpg 104,162,375,221,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008317.jpg 74,44,392,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008338.jpg 26,5,486,140,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008341.jpg 1,119,266,333,17 371,117,500,333,8 79,88,203,333,14 295,96,425,333,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008345.jpg 199,165,257,254,9 328,174,412,278,9 369,147,446,232,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008350.jpg 163,132,230,376,14 124,139,192,314,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008355.jpg 174,85,500,333,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008359.jpg 353,43,477,184,6 21,36,364,343,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008360.jpg 2,21,401,280,5 396,157,426,203,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008381.jpg 62,46,463,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008398.jpg 32,63,158,169,14 121,109,179,191,14 194,108,243,375,14 222,98,305,375,14 279,106,362,234,14 312,75,362,128,14 291,92,471,375,14 408,77,500,374,14 100,121,214,375,14 1,81,129,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008421.jpg 100,67,397,230,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008429.jpg 148,127,370,188,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008440.jpg 19,38,500,375,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008443.jpg 206,98,393,310,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008446.jpg 96,43,281,334,14 112,205,287,465,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008448.jpg 334,255,451,328,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008454.jpg 2,249,375,500,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008465.jpg 19,27,499,498,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008472.jpg 12,22,489,448,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008479.jpg 135,102,401,271,6 443,159,500,222,6 389,170,422,209,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008491.jpg 259,187,329,238,11 128,135,175,277,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008496.jpg 175,146,238,238,7 164,108,282,455,14 124,257,333,394,17 1,285,113,471,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008511.jpg 8,24,493,325,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008544.jpg 4,20,500,309,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008547.jpg 330,170,443,298,15 240,63,377,295,15 150,46,255,300,15 25,155,108,249,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008549.jpg 278,37,472,160,6 99,29,440,309,6 17,18,82,145,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008551.jpg 2,125,105,279,1 2,56,118,172,14 294,128,443,300,14 189,173,467,380,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008557.jpg 151,135,213,193,19 23,127,49,173,15 1,150,19,185,15 36,174,61,208,15 19,180,39,214,15 5,182,22,218,15 33,209,60,243,15 186,189,446,334,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008562.jpg 75,49,383,298,5 12,184,58,213,6 196,130,240,198,14 128,137,174,178,14 431,158,443,187,14 461,161,486,192,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008570.jpg 1,151,315,500,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008572.jpg 34,61,457,320,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008577.jpg 345,60,500,375,14 45,44,265,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008579.jpg 297,213,478,308,13 47,185,229,308,13 248,181,299,337,14 202,181,245,324,14 195,160,211,198,14 157,161,177,196,14 91,164,111,191,14 73,163,90,223,14 58,162,75,220,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008588.jpg 289,237,312,282,2 319,200,370,220,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008599.jpg 57,26,223,477,11 1,164,24,219,15 1,143,33,184,15 60,91,99,141,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008617.jpg 45,52,320,375,14 258,89,486,374,14 429,33,500,169,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008620.jpg 15,22,404,375,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008626.jpg 401,154,440,216,8 373,163,427,233,8 450,213,500,269,15 467,234,500,308,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008631.jpg 315,153,377,201,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008651.jpg 72,38,270,335,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008675.jpg 105,4,436,359,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008683.jpg 8,3,500,333,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008712.jpg 114,113,500,273,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008716.jpg 196,93,361,207,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008724.jpg 267,83,460,214,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008728.jpg 249,148,472,375,11 1,93,337,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008731.jpg 150,93,255,278,12 295,97,383,282,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008742.jpg 185,413,257,469,13 88,394,112,463,14 61,390,81,462,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008744.jpg 125,128,265,325,14 131,180,270,383,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008751.jpg 1,238,379,340,10 144,271,267,353,14 219,199,270,248,14 81,147,109,198,14 52,146,82,232,14 22,149,52,184,14 233,141,261,188,14 368,78,458,312,14 364,114,415,195,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008788.jpg 44,172,404,369,5 380,277,500,441,6 12,272,72,313,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008791.jpg 8,114,488,225,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008807.jpg 254,78,320,206,14 156,40,196,97,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008823.jpg 58,114,500,290,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008826.jpg 346,188,500,336,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008827.jpg 211,168,403,272,11 17,139,174,254,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008833.jpg 26,1,305,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008847.jpg 115,45,292,270,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008852.jpg 8,3,492,294,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008857.jpg 55,36,351,375,14 94,38,500,375,14 3,88,141,317,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008883.jpg 155,220,318,285,5 333,225,408,284,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008901.jpg 59,234,297,375,13 138,142,257,365,14 217,126,263,213,14 253,128,397,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008912.jpg 29,163,269,339,16 343,184,409,239,16 252,169,291,237,16 282,179,322,240,16
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008918.jpg 3,14,309,375,14 244,1,465,375,14 154,152,302,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008946.jpg 241,148,358,301,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008959.jpg 1,74,375,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008970.jpg 252,81,371,242,15 65,77,190,204,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008979.jpg 36,41,443,351,13 40,31,239,322,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008984.jpg 147,220,188,294,2 241,448,293,500,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008988.jpg 2,95,375,329,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008993.jpg 251,85,370,375,14 169,131,291,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008998.jpg 412,231,452,289,3 238,242,266,281,3 118,240,150,286,3 65,220,97,275,3 8,239,30,271,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009000.jpg 219,168,284,225,11 367,162,475,238,14 30,7,49,50,14 23,1,160,46,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009001.jpg 104,66,192,422,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009028.jpg 171,106,367,319,1 156,32,318,235,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009029.jpg 49,46,280,147,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009030.jpg 2,81,421,317,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009036.jpg 287,263,474,405,1 303,132,475,387,14 29,2,111,129,14 1,29,69,238,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009053.jpg 43,82,418,306,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009054.jpg 92,301,185,383,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009066.jpg 98,95,467,351,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009073.jpg 127,136,232,263,5 15,140,125,204,5 89,202,150,276,6 1,202,97,337,6 378,63,500,375,14 353,200,394,323,14 298,174,358,322,14 238,206,264,278,14 213,195,241,279,14 272,192,304,269,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009077.jpg 392,96,468,242,14 282,102,340,260,14 307,107,418,263,14 149,114,181,196,14 88,121,140,211,14 41,143,85,185,14 17,145,58,188,14 227,135,282,163,6 121,140,210,169,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009084.jpg 43,77,481,375,13 127,68,237,240,11 1,217,98,375,11 451,83,500,191,8 369,83,437,180,8 313,76,375,137,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009097.jpg 2,73,111,232,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009123.jpg 23,172,352,375,10 270,236,443,375,8 408,215,490,373,8 216,96,299,192,15 304,104,493,307,14 326,102,426,241,14 266,100,333,177,14 125,100,203,197,14 54,73,110,198,14 1,89,92,301,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009124.jpg 126,57,398,287,18 222,190,289,323,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009125.jpg 119,180,262,235,6 477,172,492,208,14 465,177,479,209,14 151,178,390,375,14 56,166,256,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009131.jpg 316,75,366,219,3
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009138.jpg 63,2,500,375,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009140.jpg 1,1,500,327,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009145.jpg 104,57,383,370,13 15,96,135,299,13 54,68,97,137,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009155.jpg 143,37,337,185,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009162.jpg 220,64,461,331,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009166.jpg 196,18,294,280,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009180.jpg 343,102,445,260,13 3,90,213,331,13 354,81,440,244,14 229,21,343,291,14 24,18,219,296,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009193.jpg 8,221,494,375,17 24,167,242,344,14 82,248,272,374,14 298,51,500,358,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009217.jpg 9,1,325,224,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009221.jpg 57,65,421,277,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009224.jpg 110,188,375,380,14 206,82,295,378,14 185,60,245,335,14 32,120,94,291,14 1,109,31,259,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009233.jpg 157,61,327,297,11
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009236.jpg 131,96,346,290,12 195,57,258,212,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009240.jpg 229,87,328,174,3 397,128,489,216,14 457,119,498,192,14 305,181,499,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009251.jpg 180,23,309,306,12 145,74,210,192,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009259.jpg 211,98,295,192,14 167,121,339,232,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009281.jpg 29,3,425,375,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009297.jpg 374,134,394,206,4 397,164,426,248,4 426,199,454,262,4 205,71,280,153,14 169,66,262,183,14 101,74,305,334,14 2,107,190,375,14 412,71,484,181,14 444,80,500,224,14 181,150,500,374,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009304.jpg 285,36,500,375,5 162,117,289,263,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009310.jpg 176,128,259,240,7 86,53,214,161,19 1,189,119,323,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009319.jpg 80,55,462,465,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009337.jpg 231,148,495,326,12
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009344.jpg 293,2,486,334,14 199,98,255,172,14 233,104,316,269,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009349.jpg 2,304,149,500,16 136,74,312,461,14 280,94,375,500,14 85,118,119,274,14 14,115,54,217,14 40,129,92,299,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009357.jpg 365,149,500,305,19 189,182,305,302,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009370.jpg 90,113,210,340,14 51,207,240,370,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009375.jpg 128,146,145,188,4 128,92,247,380,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009381.jpg 42,2,500,339,6 1,1,245,124,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009390.jpg 6,19,406,328,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009395.jpg 84,160,199,234,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009446.jpg 15,47,252,298,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009448.jpg 136,168,180,271,14 284,164,322,186,6 87,158,151,222,6 2,163,89,256,6 454,162,500,242,6 39,174,73,277,14 1,162,29,303,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009453.jpg 2,149,356,375,2
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009476.jpg 47,114,479,278,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009478.jpg 213,1,446,316,8 96,25,309,336,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009487.jpg 401,214,500,375,8 72,221,250,375,8 43,52,309,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009495.jpg 331,81,500,351,13 177,75,342,344,13 24,96,194,337,13
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009507.jpg 189,145,245,178,6 323,149,355,173,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009517.jpg 169,80,312,500,14 57,128,142,399,14 135,111,177,132,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009530.jpg 191,245,279,272,5 280,250,316,267,6 120,266,174,287,6 42,267,112,298,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009541.jpg 101,269,241,423,14 256,256,330,391,14 87,298,208,429,8 250,293,344,409,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009544.jpg 7,2,316,237,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009550.jpg 24,320,87,412,8 1,327,44,419,8 217,298,255,366,8 240,314,297,395,8 314,362,375,496,8 280,351,352,458,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009565.jpg 1,113,251,375,17 215,201,439,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009611.jpg 130,78,403,276,19 178,174,237,228,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009612.jpg 15,108,346,500,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009629.jpg 225,165,363,189,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009636.jpg 89,224,375,500,1
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009645.jpg 128,22,208,276,4 224,4,288,275,4 309,9,371,155,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009649.jpg 324,188,434,336,14 302,128,405,340,14 277,75,364,212,14 197,138,297,258,14 196,96,307,335,14 116,86,290,347,14 53,86,344,375,14 385,72,495,283,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009658.jpg 31,85,250,302,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009661.jpg 55,58,400,291,12 214,36,306,169,14 46,92,74,206,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009670.jpg 101,109,245,262,7 334,73,441,166,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009686.jpg 24,177,104,298,15 100,148,177,280,15 172,184,242,266,15 243,126,320,255,15 308,149,376,248,15 369,157,419,242,15 414,169,455,213,15 438,153,494,209,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009687.jpg 262,60,500,375,14 1,75,278,375,14 405,165,500,273,4 28,260,96,375,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009695.jpg 15,111,491,256,18
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009697.jpg 14,4,485,375,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009709.jpg 257,1,375,498,4 132,2,271,495,4 1,1,141,489,4
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009710.jpg 43,98,500,375,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009735.jpg 54,365,100,429,8
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009737.jpg 16,105,498,330,17
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009741.jpg 1,216,42,328,8 109,233,199,363,8 185,77,428,372,14 133,180,205,308,14 189,196,220,242,14 103,217,134,273,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009742.jpg 2,87,500,433,10
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009745.jpg 347,184,431,229,6 98,192,214,267,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009757.jpg 10,75,490,253,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009766.jpg 245,79,500,280,14 92,71,496,435,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009770.jpg 72,274,401,373,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009771.jpg 164,217,444,375,9 90,174,433,375,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009801.jpg 168,209,279,249,6 1,220,33,244,6 368,218,404,233,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009824.jpg 116,134,389,219,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009845.jpg 473,207,500,246,6 404,204,475,241,6 201,209,229,307,14 185,199,203,237,14 157,89,376,280,5
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009851.jpg 147,144,312,266,12 91,136,249,267,12 221,113,256,208,14 164,122,209,202,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009852.jpg 153,121,482,375,7
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009858.jpg 93,177,283,226,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009873.jpg 169,128,461,258,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009890.jpg 43,87,355,280,13 84,41,213,304,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009904.jpg 72,343,160,389,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009906.jpg 26,86,122,167,19 128,85,220,164,19 220,89,309,159,19 334,61,454,159,19
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009909.jpg 37,42,355,339,9 307,170,375,239,9
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009911.jpg 75,137,417,265,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009918.jpg 118,123,287,333,11 182,30,465,234,14 51,1,182,107,14 1,1,268,330,14
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009919.jpg 27,135,473,245,0
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009925.jpg 137,4,491,341,15
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009938.jpg 137,55,320,340,13 242,1,325,52,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009943.jpg 204,111,331,208,6
+/home/littlemilk/DL_HW4/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009952.jpg 79,56,325,454,11
