@@ -114,10 +114,18 @@ class YoloBody(nn.Module):
         # p3 shape [32, 128, 52, 52]
         self.seg_head           = nn.Sequential(
             nn.Conv2d(128, 128, 3, padding=1, padding_mode='replicate'),
+            nn.BatchNorm2d(128),
+            nn.LeakyReLU(0.1),
             nn.Upsample(scale_factor=2), # 104
+
             nn.Conv2d(128, 64, 1),
+            nn.BatchNorm2d(64),
+            nn.LeakyReLU(0.1),
             nn.Upsample(scale_factor=2), # 208
+
             nn.Conv2d(64, 150, 1),
+            nn.BatchNorm2d(150),
+            nn.LeakyReLU(0.1),
             nn.Upsample(scale_factor=2), # 416
         )
 
